@@ -72,14 +72,6 @@ Example Bucket Policy:
 
 ---
 
-## 🎯 Future Improvements
-
-- Add CI/CD pipeline using GitHub Actions + AWS CLI.
-- Enable logging and monitoring with CloudWatch.
-- Parameterize API endpoint using environment configs.
-
----
-
 ## 🤝 Let’s Connect
 
 If you're working on similar serverless or cloud-native architectures, feel free to connect and collaborate!
